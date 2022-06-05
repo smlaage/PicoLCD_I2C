@@ -36,6 +36,7 @@ Tested with standard displays of size 2*16 and 4*20
 Notes:  
   - The user can select the respective I2C port (0 for i2c0, 1 for i2c1) and GPIOs for sda and scl. 
   - Please refer to the rp2024 documentation to see the GPIO pins available for the selected I2C bus.  
+  - Default linesize is 20. Default I2C speed is 100k.  
   - Internal pull up resistors for SDA and SCL will be activates.  
   - I2C clock speed of 100000 to 400000 are supported. Some displays can't handle higher speed.  
   - At this stage. the functionality is limited to what I need for now. Other functions can be added easily.  
