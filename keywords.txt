@@ -1,0 +1,16 @@
+PicoLCD_I2C		KEYWORD1
+begin			KEYWORD2
+clear			KEYWORD2
+write 		KEYWORD2
+print			KEYWORD2
+setCursor		KEYWORD2
+home 			KEYWORD2
+displayOn		KEYWORD2
+displayOff		KEYWORD2
+cursorOn		KEYWORD2
+cursorOff		KEYWORD2
+blinkOn		KEYWORD2
+blinkOff		KEYWORD2
+setBacklight	KEYWORD2
+createChar		KEYWORD2
+
